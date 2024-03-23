@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Setup do ambiente EPOS
 
 Este tutorial foi desenvolvido com base nos parâmetros do projeto do semestre 24.1 de SO2. Portanto, a branch poderá variar, assim como a arquitetura. No semestre 24.1 a arquitetura alvo era Risc-V 64 bits.
